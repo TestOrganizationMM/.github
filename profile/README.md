@@ -1,3 +1,4 @@
+![UniversityOfOpole](https://media.graphassets.com/qiFQiyH6TiuMdOIA5yZJ)
 ![UniversityOfOpole](https://www.uni.opole.pl/images/logouo_header_.png)
 
 
