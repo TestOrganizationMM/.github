@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media.graphassets.com/qiFQiyH6TiuMdOIA5yZJ">
-  <img alt="Lightmode" src="https://www.uni.opole.pl/images/logouo_header_.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TestOrganizationMM/.github/blob/28e0884e93dc2a0eb885d6e9acd208a1afe4f4c4/Logo/LOGO_UO_ENG%20(12).svg">
+  <img alt="UniversityOfOpole" src="https://github.com/TestOrganizationMM/.github/blob/28e0884e93dc2a0eb885d6e9acd208a1afe4f4c4/Logo/LOGO_UO_ENG%20(2).svg">
 </picture>
 
 
