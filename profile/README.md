@@ -1,8 +1,13 @@
-![UniversityOfOpole](https://media.graphassets.com/qiFQiyH6TiuMdOIA5yZJ)
-![UniversityOfOpole](https://www.uni.opole.pl/images/logouo_header_.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://media.graphassets.com/qiFQiyH6TiuMdOIA5yZJ">
+  <img alt="Lightmode" src="https://www.uni.opole.pl/images/logouo_header_.png">
+</picture>
 
 
 `Epic Games` houses repositories associated with the [UnrealEngine](https://www.unrealengine.com/)
+
+![UniversityOfOpole](https://media.graphassets.com/qiFQiyH6TiuMdOIA5yZJ)
+![UniversityOfOpole](https://www.uni.opole.pl/images/logouo_header_.png)
 
 [Unreal Engine](https://www.unrealengine.com/en-US/solutions/games) for game development is free to get started (a 5% royalty only kicks in when your title earns over $1 million USD)
 
