@@ -5,7 +5,7 @@
     </picture>
 </a>
 
-Official GitHub organization of [University Of Opole](https://uni.opole.pl/en)
+### Official GitHub organization of [University Of Opole](https://uni.opole.pl/en)
 
-Related organizations:
+Related organizations:<br>
 Institute of Computer Science [GitHub](https://github.com/UniOpole-CS-Test/) [Website](https://informatyka.uni.opole.pl/)
