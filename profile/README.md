@@ -7,5 +7,12 @@
 
 ### Official GitHub organization of [University Of Opole](https://uni.opole.pl/en)
 
+####[Contact](https://www.uni.opole.pl/page/en/396/)
+University Of Opole
+pl. Kopernika 11a
+45-040 Opole
+Poland
+E-mail: office@uni.opole.pl
+
 #### Related organizations:<br>
 Institute of Computer Science [GitHub](https://github.com/UniOpole-CS-Test/) [Website](https://informatyka.uni.opole.pl/)
